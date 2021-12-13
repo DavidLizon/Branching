@@ -1,5 +1,7 @@
 ## Git Cmds Cheat Sheet
 
+Summary of Git commands
+
 ## Basic Commands
 * 'git init' - Initialize local Git repository
 * 'git add .' - Add all files in and under current directory to index, staging them for commit
@@ -18,3 +20,5 @@
 * 'git remote add origin remoteUrl' - Add alias "origin" for remote repository Url  "remoteUrl"
 * 'git push origin main' - Push locally-committed changes to 'main' branch on remote repository
 * 'git push - origin main' - Same, setting "origin main" as default for subsequent ' git push'
+
+## Summary
