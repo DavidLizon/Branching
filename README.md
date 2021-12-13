@@ -1,5 +1,8 @@
 ## Git Cmds Cheat Sheet
 
+Reference for use in team projects
+Summary of Git commands
+
 ## Basic Commands
 * 'git init' - Initialize local Git repository
 * 'git add .' - Add all files in and under current directory to index, staging them for commit
@@ -21,6 +24,4 @@
 * 'git push origin main' - Push locally-committed changes to 'main' branch on remote repository
 * 'git push - origin main' - Same, setting "origin main" as default for subsequent ' git push'
 
-switched back to main from newBranch
-checking add and commits
-
+## Summary
