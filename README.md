@@ -12,3 +12,4 @@
 * 'git branch' - List local Git branches
 * 'git branch newBranch' - Creates new newBranch
 * 'git checkout newBranch' - check out local branch 'newBranch'
+* 'git branch -M otherBranch' - renames current branch to 'otherBranch'
