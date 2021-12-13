@@ -6,3 +6,5 @@
 * 'git commit -m "Message"' - Commit changes to local repo with commit message "Message"
 * 'git log' - Shows log history of commits
 * 'git log --oneline' - Shows log history of commits compacted onto one line each
+
+switched back to main from newBranch
