@@ -11,4 +11,4 @@
 ### Branching Commands
 * 'git branch' - List local Git branches
 * 'git branch newBranch' - Creates new newBranch
-* 'git checkout newBranch' - switches to new branch
+* 'git checkout newBranch' - check out local branch 'newBranch'
