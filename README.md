@@ -1,5 +1,6 @@
 ## Git Cmds Cheat Sheet
 
+Other conflicts
 Reference for use in team projects
 Summary of Git commands
 
