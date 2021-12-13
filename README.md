@@ -1,6 +1,5 @@
 ## Git Cmds Cheat Sheet
 
-Other conflicts
 Reference for use in team projects
 Summary of Git commands
 
@@ -26,4 +25,4 @@ Summary of Git commands
 * 'git push - origin main' - Same, setting "origin main" as default for subsequent ' git push'
 
 ## Summary
-stuff 
+stuff
