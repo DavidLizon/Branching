@@ -25,4 +25,4 @@ Summary of Git commands
 * 'git push - origin main' - Same, setting "origin main" as default for subsequent ' git push'
 
 ## Summary
-stuff 
+stuff
