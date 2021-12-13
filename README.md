@@ -8,3 +8,4 @@
 * 'git log --oneline' - Shows log history of commits compacted onto one line each
 
 switched back to main from newBranch
+checking add and commits
