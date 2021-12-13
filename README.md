@@ -6,3 +6,9 @@
 * 'git commit -m "Message"' - Commit changes to local repo with commit message "Message"
 * 'git log' - Shows log history of commits
 * 'git log --oneline' - Shows log history of commits compacted onto one line each
+
+
+### Branching Commands
+* 'git branch' - List local Git branches
+* 'git branch newBranch' - Creates new newBranch
+* 'git checkout newBranch' - switches to new branch
